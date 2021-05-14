@@ -1,0 +1,100 @@
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Scalar
+[2] Subtract
+[3] Derivative
+[4] Evaluate poly
+[5] Exit & Save log
+
+Select option[?]: 1
+  _________________________________  
+<| =======   [1] Scalar   ======== |>
+<|_________________________________|>
+Tip: Enter polynomial using the following format = 10x^2 + 5x^1 + 2
+ 
+Enter scalar: 5 
+Enter Polymonimal: 10x^3 
+ 
+	coeff	expon
+term 1 | 50	3
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Scalar
+[2] Subtract
+[3] Derivative
+[4] Evaluate poly
+[5] Exit & Save log
+
+Select option[?]: 2
+  _________________________________  
+<| =======  [2] Subtract   ======= |>
+<|_________________________________|>
+Tip: Enter polynomial using the following format = 10x^2 + 5x^1 + 2
+ 
+Enter first Polymonimal: 10x^2 
+Enter second Polymonimal: 5x^2 
+ 
+	coeff	expon
+term 1 | 5	2
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Scalar
+[2] Subtract
+[3] Derivative
+[4] Evaluate poly
+[5] Exit & Save log
+
+Select option[?]: 3
+  _________________________________  
+<| =====   [3] Derivative   ====== |>
+<|_________________________________|>
+Tip: Enter polynomial using the following format = 10x^2 + 5x^1 + 2
+ 
+Enter Polymonimal: 3x^5 
+
+[1st derivative] 
+	coeff	expon
+term 1 | 15	4
+
+[2nd derivative] 
+	coeff	expon
+term 1 | 60	3
+
+[3rd derivative] 
+	coeff	expon
+term 1 | 180	2
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Scalar
+[2] Subtract
+[3] Derivative
+[4] Evaluate poly
+[5] Exit & Save log
+
+Select option[?]: 4
+  _________________________________  
+<| =====  [4] Evaluate poly  ===== |>
+<|_________________________________|>
+Tip: Enter polynomial using the following format = 10x^2 + 5x^1 + 2
+ 
+Enter Polymonimal: 10x^2+5x-2 
+Enter x: 1
+
+	coeff	expon
+term 1 | -10	2
+ 
+result = 100
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Scalar
+[2] Subtract
+[3] Derivative
+[4] Evaluate poly
+[5] Exit & Save log
+
+Select option[?]: 5

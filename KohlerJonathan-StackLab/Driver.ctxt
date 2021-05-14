@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ project\ title\ Lab\:\ Infix\ to\ Postfix\ Notation\ and\ Evaluation\r\n\ Project\ Description\:\ Program\ that\ reads\ infix\ expression\ from\ a\ file,\ infix.txt,\ \r\n\ converts\ the\ infix\ expression\ to\ postfix\ notation,\ and\ evaluates\ the\ postfix\ expression.\r\n\ User\ Instructions\:\ compile\ code.\r\n\ Driver\ Class\r\n\ How\ to\ start\ project\:\ Compile\ and\ go\ to\ Driver\r\n\ @author\ Jonathan\ Kohler\ \r\n\ palomar\ ID\:\ 011165333\r\n\ @version\ 7/5/2019\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

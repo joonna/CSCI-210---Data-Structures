@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EvalPostfix
+comment0.text=\r\n\ Class\ evaluates\ a\ postfix\ expresion\r\n\ \r\n\ @author\ Jonathan\ Kohler\r\n\ @version\ 7/3/2019\r\n
+comment1.params=ex\ pw
+comment1.target=EvalPostfix(java.lang.String,\ java.io.PrintWriter)
+comment1.text=\r\n\ Class\ constructor\r\n\ @param\ ex\ the\ expresion\ to\ be\ evaluated\r\n\ @param\ pw\ this\ is\ to\ print\ into\ the\ csis.txt\r\n
+comment2.params=
+comment2.target=void\ calculate()
+comment2.text=\r\n\ method\ to\ evaluate\ a\ postfix\ expression\r\n
+comment3.params=num1\ num2\ operator
+comment3.target=int\ calculateOperation(int,\ int,\ java.lang.String)
+comment3.text=\r\n\ Evaluates\ an\ operation\ given\ 2\ integers\ and\ a\ string\ operator\r\n\ @param\ num1\ first\ number\ to\ be\ involved\ in\ operation\r\n\ @param\ num2\ second\ number\ to\ be\ involved\ in\ the\ operation\r\n\ @param\ operator\ the\ operator\ that\ is\ going\ to\ be\ used\r\n\ @return\ result\ the\ result\ of\ the\ operation\r\n
+comment4.params=num1\ num2
+comment4.target=int\ exponential(int,\ int)
+comment4.text=\r\n\ Recursive\ method\ that\ calculates\ the\ exponential\ of\ a\ number\r\n\ \r\n\ @param\ num1\ the\ first\ number\ which\ is\ multiplied\r\n\ @param\ num2\ the\ second\ number\ to\ be\ used\ as\ the\ exponent\r\n\ @return\ exponential\ the\ result\ of\ the\ exponent\r\n
+comment5.params=str
+comment5.target=boolean\ isNumeric(java.lang.String)
+comment5.text=\r\n\ Method\ that\ verifies\ if\ String\ is\ numeric\r\n\ \r\n\ @param\ str\ the\ string\ in\ question\ \r\n\ @return\ false\ if\ not\ numeric\r\n\ @return\ true\ if\ it\ is\ numeric\r\n
+numComments=6

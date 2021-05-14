@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=InfixToPostfix
+comment0.text=\r\n\ InfixToPrefix\ converts\ an\ infix\ expression\ to\ a\ prefix\ expression\r\n\ \r\n\ @author\ Jonathan\ Kohler\r\n\ @version\ 7/3/2019\r\n
+comment1.params=ex
+comment1.target=InfixToPostfix(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InfixToPostfix\r\n\ @param\ infix\ is\ a\ string\ read\ in\ from\ scanner\r\n
+comment2.params=expr
+comment2.target=java.lang.String\ convertToPostfix(java.lang.String)
+comment2.text=\r\n\ Method\ that\ transforms\ an\ infix\ expression\ to\ postfix\r\n\ @param\ expr\ is\ the\ infix\ expresion\r\n\ \r\n\ @return\ postfix.toString()\ the\ resulting\ postfix\ form\r\n
+comment3.params=op
+comment3.target=boolean\ isLeftAssociative(char)
+comment3.text=\r\n\ this\ method\ determines\ the\ precedence\ of\ the\ left\ operator\r\n\ \r\n\ @param\ \ op\ these\ are\ the\ operators\r\n\ @return\ true\ if\ left\ opearator\ has\ lower\ precedence\r\n\ @return\ false\ if\ left\ opearator\ does\ not\ have\ lower\ precedence\r\n
+comment4.params=op
+comment4.target=int\ priority(char)
+comment4.text=\r\n\ Establishes\ priority\ of\ operators\r\n\ \r\n\ @param\ \ op\ is\ the\ operator\r\n\ @return\ 3,2,1,0\ \ priority\ numbers\ of\ the\ operators\r\n
+comment5.params=c
+comment5.target=boolean\ isDigit(char)
+comment5.text=\r\n\ checks\ for\ valid\ digits\ \r\n\ \r\n\ @param\ \ c\ is\ the\ character\ in\ question\ \r\n\ @return\ the\ number\r\n
+comment6.params=c
+comment6.target=boolean\ isOp(char)
+comment6.text=\r\n\ to\ see\ if\ operator\ exists.\r\n\ \r\n\ @param\ \ \ c\r\n\ @return\ \ true\ if\ operator\ exists\r\n\ @return\ \ false\ if\ operator\ doesn't\ exist\r\n
+comment7.params=str
+comment7.target=boolean\ isNumeric(java.lang.String)
+comment7.text=\r\n\ Method\ that\ checks\ if\ a\ string\ is\ a\ numeric\ character\r\n\ @param\ str\r\n\ @return\ true\ if\ string\ is\ a\ numeric\ character\r\n\ @return\ false\ if\ string\ is\ not\ a\ numeric\ character\r\n
+numComments=8
