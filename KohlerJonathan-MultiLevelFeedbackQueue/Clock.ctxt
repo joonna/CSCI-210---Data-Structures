@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ Class\ that\ manages\ the\ queue\ input\r\n\ @author\ Jonathan\ Kohler\r\n\ @version\ 7/22/2019\r\n
+comment1.params=input\ pw\ gui
+comment1.target=Clock(java.util.Scanner,\ java.io.PrintWriter,\ JFrameExtraCredit)
+comment1.text=\r\n\ Constructor\ for\ class\ Clock\r\n\ @param\ input\r\n\ @param\ pw\r\n\ @param\ gui\r\n
+comment2.params=
+comment2.target=void\ getJobs()
+comment2.text=\r\n\ Method\ that\ extracts\ the\ job\ from\ cpu\r\n
+comment3.params=
+comment3.target=void\ stats()
+comment3.text=\r\n\ Calculates\ the\ statistics\r\n
+comment4.params=
+comment4.target=void\ runSimulation()
+comment4.text=\r\n\ Runs\ the\ simulation\r\n
+comment5.params=cpu_stat\ SystemTime
+comment5.target=Job\ extract_job_info(CPU,\ int)
+comment5.text=\r\n\ Method\ that\ extracts\ info\ regarding\ the\ job\ running\ in\ the\ system\r\n\ @param\ cpu_stat\r\n\ @param\ SystemTime\r\n\ @return\ Job\r\n
+comment6.params=cpu_stat\ reducedTimeJob
+comment6.target=void\ move_job_different_level(CPU,\ Job)
+comment6.text=\r\n\ Changes\ the\ level\ of\ the\ current\ running\ job\r\n\ @param\ cpu_stat\r\n\ @param\ reducedTimeJob\r\n
+comment7.params=cpu_stat\ reducedTimeJob
+comment7.target=CPU\ move_job_different_level_and_continue(CPU,\ Job)
+comment7.text=\r\n\ Changes\ the\ level\ of\ the\ current\ running\ job\ and\ starts\ the\ next\ job\ at\ the\ lowest\ level\r\n\ @param\ cpu_stat\r\n\ @param\ reducedTimeJob\r\n
+numComments=8

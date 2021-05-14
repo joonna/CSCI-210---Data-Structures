@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ Driver\ Class\r\n\ \r\n\ Project\ Title\:\ Multi-Level\ Feedback\ Queue\ Simulation.\r\n\ Project\ Descritption\:\ simulates\ an\ operating\ system's\ job\ schedule\ \r\n\ which\ determines\ which\ process\ will\ be\ given\ to\ the\ CPU\ when\ it\ becomes\ available.\ \ \r\n\ How\ to\ start\ the\ Project\:\ Go\ to\ driver\ and\ select\ void\ main\ and\ click\ on\ "ok"\r\n\ @author\ Jonathan\ Kohler\ \r\n\ Palomar\ ID\:\ 011165333\r\n\ @version\ 7/22/2019\r\n\ User\ Instructions\:\ Compile\ first.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\r\n\ \r\n\ @param\ args\r\n\ @throws\ IOException\ \r\n
+numComments=2

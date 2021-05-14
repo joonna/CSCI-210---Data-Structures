@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ObjectQueueInterface
+comment0.text=\r\n\ Interface\ for\ ObjectQueue\ Class\r\n\ @author\ Jonathan\ Kohler\r\n\ @version\ 7/22/2019\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=boolean\ isFull()
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=o
+comment4.target=void\ insert(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ remove()
+comment6.params=
+comment6.target=java.lang.Object\ query()
+numComments=7

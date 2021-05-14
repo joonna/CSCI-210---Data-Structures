@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=JFrameExtraCredit
+comment0.text=\r\n\ This\ is\ a\ visual\ display\ of\ the\ simulation\r\n\ I\ need\ the\ extra\ credit,\ cause\ I'm\ pretty\ sure\ I\ did\ horrible\ on\ my\ midterm...\r\n\r\n\ @author\ Jonathan\ Kohler\r\n\ @version\ 7/24/2019\r\n
+comment1.params=
+comment1.target=JFrameExtraCredit()
+comment1.text=\r\n\ This\ method\ is\ the\ default\ constructor\ for\ jFrame.\r\n
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\r\n\ This\ method\ creates\ the\ gui\ components.\r\n
+comment3.params=evt
+comment3.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment4.params=evt
+comment4.target=void\ jSlider1StateChanged(javax.swing.event.ChangeEvent)
+comment4.text=\r\n\ This\ method\ is\ the\ event\ handler\ for\ jSlider1\ on\ GUI.\r\n\ @param\ evt\r\n
+comment5.params=status
+comment5.target=void\ setBusyFlag_GUI(boolean)
+comment5.text=\r\n\ This\ method\ sets\ the\ GUI\ busy\ flag\ for\ the\ GUI.\r\n\ @param\ status\r\n
+comment6.params=
+comment6.target=void\ setjTableModels()
+comment6.text=\r\n\ This\ method\ sets\ the\ jTable\ models.\r\n
+numComments=7
