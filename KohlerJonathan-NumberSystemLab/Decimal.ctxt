@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Decimal
+comment0.text=\r\n\ A\ class\ that\ converts\ Decimal\ into\ either\ a\ binary\ or\ a\ hexadecimal\ number\r\n\ \r\n\ @author\ Jonathan\ Kohler\ Palomar\ ID\:\ 011165333\r\n\ @version\ 6/30/2019\r\n
+comment1.params=pw
+comment1.target=Decimal(java.io.PrintWriter)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Decimal\r\n
+comment2.params=
+comment2.target=void\ decToBin()
+comment2.text=\r\n\ Converts\ a\ decimal\ value\ to\ a\ binary\ \r\n\ \r\n\ @param\ \ None\r\n\ @return\ None\r\n
+comment3.params=
+comment3.target=void\ decToHex()
+comment3.text=\r\n\ Converts\ a\ deccimal\ value\ to\ a\ hexadecimal\ value\r\n\ \r\n\ @param\ \ None\r\n\ @return\ None\r\n
+numComments=4

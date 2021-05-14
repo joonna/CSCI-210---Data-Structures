@@ -1,0 +1,301 @@
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+1
+Enter a decimal number: 
+65535
+1111111111111111
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+1
+Enter a decimal number: 
+1000000
+11110100001001000000
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+1
+Enter a decimal number: 
+1234567890
+1001001100101100000001011010010
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+2
+Enter a decimal number: 
+65535
+Decimal to Hexadecimal: FFFF
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+2
+Enter a decimal number: 
+1000000
+Decimal to Hexadecimal: F4240
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+2
+Enter a decimal number: 
+1234567890
+Decimal to Hexadecimal: 499602D2
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+3
+Enter a Binary Number: 
+01100101110011011010111000000101
+Decimal number is : 1707978245
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+3
+Enter a Binary Number: 
+01111111111111110010000111010011
+Decimal number is : 2147426771
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+3
+Enter a Binary Number: 
+00000000000000000000000000000010
+Decimal number is : 2
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+4
+Enter a Binary Number: 
+01100101110011011010111000000101
+24131313131313131313131313131313
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+4
+Enter a Binary Number: 
+01111111111111110010000111010011
+24131313131313131313131313131313
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+4
+Enter a Binary Number: 
+00101011101011010111011000111010
+24131313131313131313131313131313
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+5
+Enter a Hexadecimal: 
+12345678
+305419896
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+5
+Enter a Hexadecimal: 
+2A3DF8A7
+708704423
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+5
+Enter a Hexadecimal: 
+00FF00FF
+16711935
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+6
+Enter a Hexadecimal: 
+12345678
+00010010001101000101011001111000
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+6
+Enter a Hexadecimal: 
+2A3DF8A7
+00101010001111011111100010100111
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+6
+Enter a Hexadecimal: 
+00FF00FF
+00000000111111110000000011111111
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+3
+Enter a Binary Number: 
+
+ERROR
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+1
+Enter a decimal number: 
+NOT AN INTEGER
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+4
+Enter a Binary Number: 
+errorcheck
+ERROR
+
+Enter choices 1-7
+1: Decimal to Binary
+2: Decimal to Hex
+3: Binary to Decimal
+4: Binary to Hex
+5: Hex to Decimal
+6: Hex to Binary
+7: Exit Menu
+
+7

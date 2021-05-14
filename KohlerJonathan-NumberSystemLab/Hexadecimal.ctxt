@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hexadecimal
+comment0.text=\r\n\ Converts\ an\ 8-digit\ hexadecimal\ number\ into\ either\ a\ decimal\ or\ a\ binary\ number\r\n\r\n\ @author\ Jonathan\ Kohler\ Palomar\ ID\:\ 011165333\r\n\ @version\ 6/30/2019\r\n
+comment1.params=pw
+comment1.target=Hexadecimal(java.io.PrintWriter)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hexadecimal\r\n
+comment2.params=
+comment2.target=void\ hexToDec()
+comment2.text=\r\n\ converts\ an\ 8-digit\ hexadecimal\ number\ into\ a\ decimal\ integer\r\n\ \r\n\ @param\ \ None\r\n\ @return\ None\r\n
+comment3.params=
+comment3.target=void\ hexToBin()
+comment3.text=\r\n\ \ converts\ an\ 8-digit\ hexadecimal\ number\ into\ a\ 32-bit\ binary\ number\r\n\ \r\n\ @param\ \ None\r\n\ @return\ None\r\n
+numComments=4

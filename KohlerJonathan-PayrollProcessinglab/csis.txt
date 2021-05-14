@@ -1,0 +1,157 @@
+First Name	Last Name	Gender		Tenure		Rate		Salary
+
+Howard		Starr		M		8		H		30.0
+
+Joan		Jacobus		F		9		W		925.0
+
+David		Renn		M		3		H		4.75
+
+Albert		Cahana		M		3		H		18.75
+
+Douglas		Sheer		M		5		W		250.0
+
+Shari		Buchman		F		9		W		325.0
+
+Freda		Heller		F		1		H		7.5
+
+Ricky		Mofsen		M		6		H		12.5
+
+Jean		Brennan		F		6		H		5.4
+
+Deborah		Starr		F		3		W		1000.0
+
+Jamie		Michaels		F		8		W		150.0
+
+
+Number of employees in the data is: 11
+
+
+First and last name of all the women in the data are: 
+
+Joan	Jacobus
+
+Shari	Buchman
+
+Freda	Heller
+
+Jean	Brennan
+
+Deborah	Starr
+
+Jamie	Michaels
+
+
+First and last names and weekly salary of all weekly employees who make more then $35,000 per year and who have been with the company for at least five years: 
+
+Joan	Jacobus	925.0
+
+
+First and last names and new salary for employees who have received raises: 
+
+David	Renn	5.5
+
+Douglas	Sheer	300.0
+
+Shari	Buchman	375.0
+
+Freda	Heller	8.25
+
+Jean	Brennan	6.15
+
+Jamie	Michaels	200.0
+
+
+Sorted data by last name is: 
+
+First Name	Last Name	Gender		Tenure		Rate		Salary
+
+Jean		Brennan		F		6		H		6.15
+
+Shari		Buchman		F		9		W		375.0
+
+Albert		Cahana		M		3		H		18.75
+
+Freda		Heller		F		1		H		8.25
+
+Joan		Jacobus		F		9		W		925.0
+
+Jamie		Michaels		F		8		W		200.0
+
+Ricky		Mofsen		M		6		H		12.5
+
+David		Renn		M		3		H		5.5
+
+Douglas		Sheer		M		5		W		300.0
+
+Deborah		Starr		F		3		W		1000.0
+
+Howard		Starr		M		8		H		30.0
+
+
+New hired employees inserted into data and updated file: 
+
+First Name	Last Name
+
+Barry		Allen
+
+Jean		Brennan
+
+Shari		Buchman
+
+Albert		Cahana
+
+Freda		Heller
+
+Joan		Jacobus
+
+Jamie		Michaels
+
+Ricky		Mofsen
+
+Nina		Pinella
+
+David		Renn
+
+Douglas		Sheer
+
+Deborah		Starr
+
+Howard		Starr
+
+Lane		Wagger
+
+
+Number of employees in the data is: 14
+
+
+Fired employees deleted and updated file: 
+
+First Name	Last Name
+
+Barry		Allen
+
+Shari		Buchman
+
+Albert		Cahana
+
+Freda		Heller
+
+Joan		Jacobus
+
+Jamie		Michaels
+
+Nina		Pinella
+
+David		Renn
+
+Douglas		Sheer
+
+Deborah		Starr
+
+Howard		Starr
+
+Lane		Wagger
+
+
+Number of employees in the data is: 12
+

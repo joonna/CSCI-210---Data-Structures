@@ -1,0 +1,11 @@
+Howard     Starr           M 8 H   30.00
+Joan       Jacobus         F 9 W  925.00
+David      Renn            M 3 H    4.75
+Albert     Cahana          M 3 H   18.75
+Douglas    Sheer           M 5 W  250.00
+Shari      Buchman         F 9 W  325.00
+Freda      Heller          F 1 H    7.50
+Ricky      Mofsen          M 6 H   12.50
+Jean       Brennan         F 6 H    5.40
+Deborah    Starr           F 3 W 1000.00
+Jamie      Michaels        F 8 W  150.00
