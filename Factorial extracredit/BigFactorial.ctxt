@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BigFactorial
+comment1.params=limit
+comment1.target=void\ bigFactorial(int)
+comment2.params=n
+comment2.target=java.util.List\ primeFactors(int)
+comment2.text=\r\n\r\n\ Calculates\ the\ prime\ factors\ for\ n.\r\n\r\n\ @param\ n\ -\ the\ number\ to\ be\ factorised.\r\n\r\n\ @return\ a\ List<Integer>\ of\ the\ found\ prime\ factors.\r\n\r\n
+comment3.params=limit
+comment3.target=java.math.BigDecimal\ factorial(int)
+comment3.text=\r\n\r\n\ Calculates\ the\ factorial\ of\ a\ number.\r\n\r\n\ @param\ limit\ -\ the\ number\ to\ factorial.\r\n\r\n\ @return\ a\ BigDecimal\ containing\ the\ result.\r\n\r\n
+numComments=4
